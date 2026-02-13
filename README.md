@@ -2,10 +2,10 @@
 
 This repository provides Home Assistant Matter Hub add-ons.
 
-## Available add-ons
+## Channels
 
-- **Home-Assistant-Matter-Hub** (`hamh`) — stable/main channel
-- **Home-Assistant-Matter-Hub (Beta)** (`hamh-beta`) — beta channel for Rust Rework
+- **Home-Assistant-Matter-Hub** (`hamh`) → **main** branch (stable)
+- **Home-Assistant-Matter-Hub (Beta)** (`hamh-beta`) → **Rework** branch (Rust rewrite)
 
 ## Installation
 
@@ -14,8 +14,4 @@ This repository provides Home Assistant Matter Hub add-ons.
 3. Open menu (top-right) → **Repositories**
 4. Add: `https://github.com/parnunu/home-assistant-addons`
 5. Refresh Add-on Store
-6. Install either **Main** or **Beta** (enable only one at a time)
-
-## Notes
-
-- Only run one HAMH add-on at once (Main or Beta).
+6. Install either Main or Beta (run only one at a time)

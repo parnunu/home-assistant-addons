@@ -2,8 +2,8 @@ version: "3.0.5-beta.1"
 image: ghcr.io/parnunu/home-assistant-matter-hub-addon
 slug: hamh-beta
 name: Home-Assistant-Matter-Hub (Beta)
-description: Beta channel for Rust Rework builds of Home Assistant Matter Hub.
-url: https://github.com/parnunu/home-assistant-matter-hub
+description: Beta channel built from Rework branch (Rust rewrite).
+url: https://github.com/parnunu/home-assistant-matter-hub/tree/Rework
 panel_icon: mdi:hub
 panel_title: Matter Hub (Beta)
 homeassistant: 2024.1.0

@@ -2,8 +2,8 @@ version: "3.0.4"
 image: ghcr.io/parnunu/home-assistant-matter-hub-addon
 slug: hamh
 name: Home-Assistant-Matter-Hub
-description: Publish your entities from Home Assistant to any Matter-compatible controller like Alexa, Apple Home or Google Home.
-url: https://github.com/parnunu/home-assistant-matter-hub
+description: Stable channel built from main branch.
+url: https://github.com/parnunu/home-assistant-matter-hub/tree/main
 panel_icon: mdi:hub
 panel_title: Matter Hub
 homeassistant: 2024.1.0
