@@ -12,7 +12,7 @@ Each add-on should keep its implementation in its own source repository and publ
 | `parnunu/ha-addon-openclaw` | `openclaw/` | Source repo sync workflow commits the published folder into this repo |
 | `parnunu/Home-Assistance-Realfeel-Temperature-Sensor` | `realfeel_temperature/` | Source repo publishes a compatibility-installer add-on folder into this repo |
 | `parnunu/ssh-tunnel-gateway-addon` | `ssh_tunnel_gateway/` | Source repo sync workflow commits the published folder into this repo |
-| `parnunu/ha-addon-web-proxy` | `lightweight_web_proxy/` | Initial folder committed directly; add the source sync workflow when the GitHub token has `workflow` scope |
+| `parnunu/ha-addon-web-proxy` | `lightweight_forward_proxy/` | Initial folder committed directly; add the source sync workflow when the GitHub token has `workflow` scope |
 
 ## Required source-repo secret
 

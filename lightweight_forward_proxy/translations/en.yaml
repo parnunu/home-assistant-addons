@@ -1,0 +1,19 @@
+configuration:
+  port:
+    name: Proxy port
+    description: HTTP/HTTPS forward proxy listen port.
+  allowed_networks:
+    name: Allowed networks
+    description: Client IP addresses or CIDR ranges allowed to use the proxy.
+  max_clients:
+    name: Max clients
+    description: Maximum simultaneous proxy clients.
+  connect_ports:
+    name: CONNECT ports
+    description: Ports allowed for HTTPS CONNECT tunneling.
+  upstream_proxy:
+    name: Upstream proxy
+    description: Optional parent proxy in host:port form.
+  log_level:
+    name: Log level
+    description: tinyproxy log level.
