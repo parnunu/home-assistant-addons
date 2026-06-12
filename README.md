@@ -23,6 +23,7 @@ Repository URL:
 | OpenClaw | `openclaw` | `openclaw` | `https://github.com/parnunu/ha-addon-openclaw` | Published from its source add-on repo |
 | RealFeel Temperature | `realfeel_temperature` | `realfeel_temperature` | `https://github.com/parnunu/Home-Assistance-Realfeel-Temperature-Sensor` | Compatibility installer for a custom integration source repo |
 | SSH Tunnel Gateway | `ssh_tunnel_gateway` | `ssh_tunnel_gateway` | `https://github.com/parnunu/ssh-tunnel-gateway-addon` | Exposes remote services to your LAN through SSH local forwards |
+| Lightweight Web Proxy | `lightweight_web_proxy` | `lightweight_web_proxy` | `https://github.com/parnunu/ha-addon-web-proxy` | Lightweight nginx reverse proxy exposed through Home Assistant ingress |
 
 ## Publishing model
 
